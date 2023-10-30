@@ -6,7 +6,7 @@ const Works = () => {
   return (
     <section id='works'>
         <h2 className='workstitle'>My Portfolio</h2>
-        <span className='worksDesc'> I take pride in paying attention to the smaillest details and making sure that my work is pixel perfect. I am excited to bring my skills and experience to help businesses achieve their goals and create a strong oline presence. </span>
+        <span className='worksDesc'> I take pride in paying attention to the smallest details and making sure that my work is pixel perfect. I am excited to bring my skills and experience to help businesses achieve their goals and create a strong oline presence. </span>
         <div className='worksImgs'>
             <img src='./images/cat-apple-laptop.webp' alt='cat-apple-laptop.webp'  className='worksImg' />
             <img src='./images/cat-computer-bed.jpg' alt='cat-computer-bed.jpg'  className='worksImg' />

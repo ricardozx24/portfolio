@@ -33,8 +33,8 @@ const Clients = () => {
           <p className='contactPageTitle'>Contact Me</p>
           <span className='contactDesc'>Please fill out the form below to discuss any work opportunities.</span>
           <form className='contactForm' ref={form} onSubmit={sendEmail}>
-            <input type='text' className='name' placeholder='Enter your name' name='your_name'/>
-            <input type='email' className='email'  placeholder='Enter you email address' name='your_email'/>
+            <input type='text' className='name' placeholder='Your name goes here' name='from_name'/>
+            <input type='email' className='email'  placeholder='Enter you email address' name='from_email'/>
             <textarea name='message' className='msg' rows="5" placeholder='Enter your message or comments here!' />
             <button type='submit' value='send' className='submitBtn'>SUBMIT</button>
 
