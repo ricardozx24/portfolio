@@ -21,7 +21,7 @@ const Clients = () => {
     <section id='contactPage'>
         <div id='clients'>
         <h1 className='contactPageTitle'>My Clients</h1>
-        <p className='clientDesc'> I have had the opportunity to work with a diverse group of companies. Some of the notable companies I have worked with include. </p>
+        <p className='clientDesc'> I have had the opportunity to work with a diverse group of companies. Some of the companies I have worked with include. </p>
             <div>
                 <img src='./images/cat-company.jpg' alt='cat-company'  className='clientImg' />
                 <img src='./images/chewy.webp' alt='chewy'  className='clientImg' />
